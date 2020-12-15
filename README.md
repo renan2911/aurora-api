@@ -103,4 +103,4 @@ For more information, look this [link](https://www.hipercultura.com/fenomenos-na
 See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index.html).
 
 ## About:
-The Aurora project was developed during the Digital Innovation One course. Prof: Alex Alves.
+The Aurora project was developed during the Digital Innovation One course. Prof: Alexandre Daccas.
